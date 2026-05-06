@@ -1,0 +1,51 @@
+﻿ProductID,ProductName,Category
+1,Rice Bag,Groceries
+2,Cooking Oil,Groceries
+3,Spaghetti,Groceries
+4,Sugar Pack,Groceries
+5,Salt,Groceries
+6,Flour,Groceries
+7,Milk Powder,Groceries
+8,Bread,Groceries
+9,Canned Beans,Groceries
+10,Tomato Paste,Groceries
+11,Smartphone,Electronics
+12,Laptop,Electronics
+13,Tablet,Electronics
+14,Smartwatch,Electronics
+15,Bluetooth Speaker,Electronics
+16,Headphones,Electronics
+17,LED TV,Electronics
+18,Gaming Console,Electronics
+19,External Hard Drive,Electronics
+20,Printer,Electronics
+21,Refrigerator,Home Appliances
+22,Microwave,Home Appliances
+23,Blender,Home Appliances
+24,Washing Machine,Home Appliances
+25,Electric Kettle,Home Appliances
+26,Vacuum Cleaner,Home Appliances
+27,Air Conditioner,Home Appliances
+28,Rice Cooker,Home Appliances
+29,Toaster,Home Appliances
+30,Fan,Home Appliances
+31,T-Shirt,Clothing
+32,Jeans,Clothing
+33,Jacket,Clothing
+34,Dress,Clothing
+35,Sneakers,Clothing
+36,Formal Shoes,Clothing
+37,Cap,Clothing
+38,Socks,Clothing
+39,Sweater,Clothing
+40,Scarf,Clothing
+41,Football,Sports
+42,Basketball,Sports
+43,Tennis Racket,Sports
+44,Running Shoes,Sports
+45,Yoga Mat,Sports
+46,Cricket Bat,Sports
+47,Dumbbells,Sports
+48,Bicycle,Sports
+49,Swimming Goggles,Sports
+50,Skipping Rope,Sports
