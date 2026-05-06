@@ -10,7 +10,7 @@ The dashboard transforms raw transactional data into meaningful insights using *
 
 ## 📊 Dashboard Preview
 
-<img src="https://raw.githubusercontent.com/gaml8467-source/retail-sales-customer-insights-dashboard/refs/heads/main/E-commerce%20SQL/Photo/1.png" width="800">
+<img src="https://raw.githubusercontent.com/gaml8467-source/retail-sales-customer-insights-dashboard/refs/heads/main/E-commerce%20SQL/Photo/Annotation%202026-05-06%20131758.png" width="800">
 
 ##  Dataset Information
 
@@ -123,9 +123,7 @@ The dashboard transforms raw transactional data into meaningful insights using *
 ---
 
 
-<img src="https://raw.githubusercontent.com/gaml8467-source/retail-sales-customer-insights-dashboard/refs/heads/main/E-commerce%20SQL/Photo/1.png" width="800">
-
-
+<img src="https://raw.githubusercontent.com/gaml8467-source/retail-sales-customer-insights-dashboard/refs/heads/main/E-commerce%20SQL/Photo/Annotation%202026-05-06%20131758.png" width="800">
 ##  Tools & Skills Used
 
 * Power BI
